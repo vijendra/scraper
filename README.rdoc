@@ -1,6 +1,6 @@
 = Scraper
 
-Scripts to crawl flipkart books list and scrape wiki page for UK cities.
+Experimental scripts to crawl flipkart books list and scrape wiki page for UK cities. 
 
 == Running scripts
  
